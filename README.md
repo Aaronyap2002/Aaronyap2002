@@ -20,10 +20,8 @@
 
 - 🔭 I'm currently an undergraduate Electrical and Electronic Engineering (EEE) student researcher at Nanyang Technology University, Singapore
 - 💾 I'm specializing in Integrated Circuit (IC) Design.
-- `<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="21">` Interested in the field of Very Large Scale Integration (VLSI), Digital Design & Computer Architecture.
-- 🌱 Exploring Technical Content Writing.
-- ⚡️ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="21"> Interested in the field of Very Large Scale Integration (VLSI), Digital Design & Computer Architecture of RISC-V and ARM.
+- 🌱 Learning to build my own RISC-V CPU core, while designing an AI Accelerator using Systolic Array as my research topic.
 ---
 
 ### 🛠 Languages and Tools :
@@ -38,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="HTML" width="40" height="40"/> 
 </div>
+
 ---
 
 ### 🔥 My Stats :
