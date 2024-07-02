@@ -43,6 +43,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aaronyap2002&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronyap2002&layout=donut&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)
 
+### 🔥 My Music :
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12163468507)
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
