@@ -20,7 +20,7 @@
 
 - 🔭 I'm currently an undergraduate Electrical and Electronic Engineering (EEE) student researcher at Nanyang Technology University, Singapore
 - 💾 I'm specializing in Integrated Circuit (IC) Design.
-- `<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">` Interested in the field of Very Large Scale Integration (VLSI), Digital Design & Computer Architecture.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Interested in the field of Very Large Scale Integration (VLSI), Digital Design & Computer Architecture.
 - 🌱 Exploring Technical Content Writing.
 - ⚡️ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
