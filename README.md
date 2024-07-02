@@ -45,6 +45,7 @@
 
 ### 🔥 My Music :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12163468507)
+![Snake animation](https://github.com/Aaronyap2002/Aaronyap2002/blob/output/github-contribution-grid-snake.svg)
 ### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
