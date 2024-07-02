@@ -20,7 +20,7 @@
 
 - 🔭 I'm currently an undergraduate Electrical and Electronic Engineering (EEE) student researcher at Nanyang Technology University, Singapore
 - 💾 I'm specializing in Integrated Circuit (IC) Design.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="21"> Interested in the field of Very Large Scale Integration (VLSI), Digital Design & Computer Architecture.
+- `<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="21">` Interested in the field of Very Large Scale Integration (VLSI), Digital Design & Computer Architecture.
 - 🌱 Exploring Technical Content Writing.
 - ⚡️ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -29,21 +29,14 @@
 ### 🛠 Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374163/verilog.svg" title="Verilog" alt="Verilog" width="40" height="40"/> 
+  <img src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2018/02/systemverilog-logo.jpg" title="SystemVerilog" alt="SystemVerilog" width="80" height="40"/> 
+  <img src="https://substack-post-media.s3.amazonaws.com/public/images/6f2e6c4d-787f-4189-aef5-53b2d53112b2_574x448.png" title="RISC-V Assembly" alt="RISC-V Assembly" width="40" height="40"/> 
+  <img src="https://pbs.twimg.com/profile_images/892288373993361409/9jdJldY9_400x400.jpg" title="ARM Assembly" alt="ARM Assembly" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" title="Vivado" alt="Vivado" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="HTML" width="40" height="40"/> 
 </div>
 ---
 
