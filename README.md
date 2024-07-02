@@ -10,6 +10,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
 ![snake gif](https://github.com/Aaronyap2002/Aaronyap2002/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
