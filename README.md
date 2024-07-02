@@ -10,9 +10,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![snake gif](https://github.com/Aaronyap2002/Aaronyap2002/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -46,4 +44,3 @@
 ### 🔥 My Music :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12163468507)
 
-![snake gif](https://github.com/Aaronyap2002/Aaronyap2002/blob/output/github-contribution-grid-snake-dark.svg)
